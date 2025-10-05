@@ -32,7 +32,7 @@
 }
 *[knowl]:hover,
 *[knowl].active {
-  border-bottom: 2px solid #aaf;
+  border-bottom:;
   background: #ddf;
   color: #006;
   padding: 0;
